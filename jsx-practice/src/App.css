@@ -1,0 +1,38 @@
+ h1 {
+    text-align: center;
+}
+
+.imgContainer {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+    margin: auto;
+}
+
+.imgBoxes {
+    border: black solid;
+    margin: 10px;
+    width: 100%;
+}
+img {
+    width: 14em;
+    height: 14em;
+    margin: 20px;
+    align-items: center;
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.bottomContainer {
+    width: 60%;
+    padding: 53px;
+    background-color: #778973;
+    margin: auto;
+    color: white;
+    margin-top: 1em;
+}
